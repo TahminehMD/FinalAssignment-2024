@@ -164,11 +164,11 @@ footer {
     margin-top: 2rem;
 }
 
-.footer-nav a:hover {
+.footer-nav a: hover {
     color: #fff;
 }
 
-/* Media Queries */
+/* Media Queries has changed */
 
 @media screen and (max-width: 768px) {
     nav {
